@@ -1,8 +1,9 @@
 # lab1_2_androidLayout
 实验内容：验证生命周期，三个布局界面
-实验截图存放在img文件夹中，共四个截图
+实验截图存放在img文件夹中，共5个截图
 实验代码如下：
 实验1：验证生命周期
+
 ```
 package com.example.win.helloworld2;
 
